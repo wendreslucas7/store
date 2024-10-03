@@ -1,0 +1,11 @@
+GET http://localhost:3005/pedidos
+
+###
+GET http://localhost:3005/pedidos/20
+
+
+###
+POST http://localhost:3005/pedidos
+
+###
+DELETE http://localhost:3005/pedidos
